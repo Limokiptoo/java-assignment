@@ -29,6 +29,6 @@ public class assignment33 {
             }
         }
 
-        scanner.close(); // Close the scanner
+        scanner.close(); 
     }
 }
