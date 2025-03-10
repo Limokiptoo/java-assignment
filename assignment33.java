@@ -18,11 +18,11 @@ public class assignment33 {
 
             System.out.println("Fibonacci Series up to " + n + " terms:");
 
-            // Print the series
+            
             for (int i = 1; i <= n; i++) {
                 System.out.print(first + " ");
 
-                // Compute the next term
+                
                 int nextTerm = first + second;
                 first = second;
                 second = nextTerm;
